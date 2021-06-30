@@ -3,7 +3,7 @@
 ### Description
 Listen to the pronunciation of the copied English word in the Naver Dictionary
 
-#### Enviroment
+### Enviroment
 
 
 ### Prerequistite
