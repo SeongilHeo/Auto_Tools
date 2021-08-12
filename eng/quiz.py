@@ -27,14 +27,12 @@ while L:
     print("%s\t\tcount %02d"%(each_kor,len(L)))
     if s==0 and i==ori:
         print("----------------------------------")
-        print("review",len(L)+1)
+        print("review",len(L))
         s=1
     if input().strip()!=D[each_kor]:
         L.append(each_kor)
         print("*******"+each_kor+"->"+D[each_kor]+"*******")
         print("*%s*"%(input().strip()==D[each_kor]))
-    else:
-        i+=1
     print()
 print("Day%02d completed"%day)
 time.sleep(1)
