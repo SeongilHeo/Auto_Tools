@@ -2,7 +2,7 @@ import time
 
 # Load Data from .txt files as Dictionary 'D'
 
-day=int(input("Enter the data(ex: 2 -> day2): "))
+day=int(input("Enter the data(day:01~12): "))
 E=open('data/%02dE.txt'%(day),'r',encoding='utf-8')
 K=open('data/%02dK.txt'%(day),'r',encoding='utf-8')
 D={}
