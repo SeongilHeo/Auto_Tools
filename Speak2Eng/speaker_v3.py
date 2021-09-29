@@ -10,7 +10,7 @@ options.add_argument('headless')
 # webdriver 실행
 driver = webdriver.Chrome('chromedriver.exe', options=options)
 txt = pyperclip.paste()
-txt-txt.replace(" ", "+")
+txt=txt.replace(" ", "+")
 
 url = "https://en.dict.naver.com/#/search?range=all&query="+txt
 driver.get(url)

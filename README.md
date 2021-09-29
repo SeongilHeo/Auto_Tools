@@ -1,4 +1,5 @@
 # Auto_Tools
+pyinstaller -w -F
 
 ## Speak2Eng
 - Date: 21.06.30

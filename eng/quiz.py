@@ -27,7 +27,7 @@ while L:
     print("%s\t\tcount %02d"%(each_kor,len(L)+1))
     if input().strip()!=D[each_kor]:
         L.append(each_kor)
-        print("*******"+each_kor+"->"+D[each_kor]+"*******")
+        print("*******"+each_kor+"\n->"+D[each_kor]+"*******")
         print("*%s*"%(input().strip()==D[each_kor]))
     if s==0 and i==ori:
         print("----------------------------------")
