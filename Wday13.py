@@ -28,8 +28,8 @@ compulsorily	의무적으로	by requirement, obligatorily, mandatorily
 aid	도다	assist, support, help
 deliberation	토의	discussion, debate, conference
 preposterous	터무니없는	unbelievable, absurd, nonsensical
-sparse	드문드문한; 부족한	scattered, thinly distributed"""
-text="""occasionally	가끔	once in a while, now and them, sometimes
+sparse	드문드문한; 부족한	scattered, thinly distributed
+occasionally	가끔	once in a while, now and then, sometimes
 inconceivable	상상도 할 수 없는	unthinkable, unimaginable
 breeding	번식	reproduction, propagation
 overriding	가장 중요한	dominant, chief, principal
@@ -37,8 +37,7 @@ favor	더 좋아하다	prefer, lean toward
 sediment	침전물	remains, deposition
 clever	영리한	ingenious, smart, brilliant
 consistently	일관되게	regularly, typically, unchangingly
-rate	평가하다	judge, assess, evaluate"""
-"""
+rate	평가하다	judge, assess, evaluate
 predominate	우세하다; 지배적인, 우세한	outweigh, prevail, most popular
 realize	깨닫다, 이해하다; 달성하다, 실현하다	be aware of, understand, achieve
 circuitous	우회하는	indirect, roundabout
